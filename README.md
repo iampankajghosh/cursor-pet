@@ -2,7 +2,7 @@
 
 Animated pixel companions that follow your cursor.
 
-![Cursor Pet Preview](https://raw.githubusercontent.com/iampankajghosh/cursor-pet/main/public/preview.gif)
+<img src="https://raw.githubusercontent.com/iampankajghosh/cursor-pet/main/public/preview.gif" alt="Cursor Pet Preview" width="100%" />
 
 ---
 
